@@ -48,7 +48,7 @@ Solution and Data Structure propose by Mahmood Sakib
 <p>
 Implementation was done by Adam Clark with the assistance of Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -89,7 +89,7 @@ Solution and algorithm propose by Mahmood Sakib
 <p>
 Implementation was done by Adam Clark with the assistance of Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -114,7 +114,7 @@ Algorithm propose by Adam Clark
 <p>
 Implementation was done by Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -150,7 +150,7 @@ Algorithm propose by Quang Le
 <p>
 Implementation was done by Sakib Mahmood
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -218,7 +218,7 @@ Solution and algorithm propose by Sakib Mahmood
 <p>
 Implementation was done by Adam Clark 
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -262,7 +262,7 @@ Algorithm propose by Mahmood Sakib
 <p>
 Implementation was done by Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
@@ -297,7 +297,7 @@ Solution and algorithm propose by Mahmood Sakib
 <p>
 Implementation was done by Adam Clark with the assistance of Quang Le
 </p>
-<ul>
+</ul>
 
 
 ```python
