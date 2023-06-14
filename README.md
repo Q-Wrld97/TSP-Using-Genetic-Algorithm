@@ -33,10 +33,10 @@ The Traveling Salesman Problem (TSP) is about finding the shortest route that vi
 <h3>Preqrequisites</h3>
 <body>
 Installing matplotlib for graphing the results
-```
+</body>
+```python
 pip install matplotlib 
 ```
-</body>
 
 <h3>How were the cities and distances represented (as a data structure)?</h3>
 
