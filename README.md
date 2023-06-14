@@ -370,7 +370,7 @@ Algorithm propose Quang Le
 <p>
 Implementation was done by Adam Clark with the assistance of Sakib Mahmood
 </p>
-<ul>
+</ul>
 
 
 ```python
