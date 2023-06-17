@@ -20,17 +20,17 @@
 <h3>Overview</h3>
 
 <body>
-The Traveling Salesman Problem (TSP) is about finding the shortest route that visits a list of cities and returns to the starting city. It's a challenging problem with no known fast solution also known as NP-hard, meaning that there is no known polynomial time solution to the problem. However, there are approximate algorithms that can find solutions close to the optimal one such as Ant Colony or Genetic Algorithm. In this project, we will be using the genetic algorithm to solve the TSP problem. The genetic algorithm is a metaheuristic(high-level problem-solving strategies that guide the exploration and exploitation of search spaces to find near-optimal solutions) inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms. The genetic algorithm repeatedly modifies a population of individual solutions. At each step, the genetic algorithm selects individuals at random from the current population to be parents and uses them to produce the children for the next generation. Over successive generations, the population "evolves" toward an optimal solution. Althought there are many variations of the genetic algorithm, they will boil down to these basic step:
+The Traveling Salesman Problem (TSP) is about finding the shortest route that visits a list of cities and returns to the starting city. It's a challenging problem with no known fast solution also known as NP-hard, meaning that there is no known polynomial time solution to the problem. However, there are approximate algorithms that can find solutions close to the optimal one such as Ant Colony or Genetic Algorithm. In this project, we will be using the genetic algorithm to solve the TSP problem. The genetic algorithm is a metaheuristic(high-level problem-solving strategies that guide the exploration and exploitation of search spaces to find near-optimal solutions) inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms. The genetic algorithm repeatedly modifies a population of individual solutions. At each step, the genetic algorithm selects individuals at random from the current population to be parents and uses them to produce the children for the next generation. Over successive generations, the population "evolves" toward an optimal solution. Althought there are many variations of the genetic algorithm, they will boil down to these basic steps:
 
 1. Initialization - create an initial population
 2. Fitness - determine the fitness of each individual in the population
 3. Selection - select parents from the population
 4. Crossover - create offspring by mating parents
-5. Mutation- mutate offspring
-6. reapeat 2-5 until terminatal condition is met
+5. Mutation - mutate offspring
+6. Repeat steps 2-5 until terminatal condition is met
 <body>
 
-<h3>Preqrequisites</h3>
+<h3>Prerequisites</h3>
 <body>
 Installing matplotlib for graphing the results
 </body>
