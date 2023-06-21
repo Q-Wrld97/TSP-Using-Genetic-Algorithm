@@ -1,3 +1,11 @@
+#Report, screenshot, source code, README, plots, report, and multiple runs shown through Google Collab Per Instruction 
+
+#GOOGLE COLLAB LINK : 
+# https://colab.research.google.com/drive/1x3maO7XMN08hbwFNpPoZiutF-r-bLjDW?usp=sharing
+
+#GitHub Repo: 
+# https://github.com/Q-Wrld97/TSP-Using-Genetic-Algorithm
+
 import random
 import math
 import matplotlib.pyplot as plt
